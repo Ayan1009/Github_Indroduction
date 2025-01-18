@@ -1,3 +1,3 @@
 Hi, we are learning git today.
 
-Hey Kalvians, we will be learning mobile development.
+Hey Kalvians, we are learning full stack web dev.
